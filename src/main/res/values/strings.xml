@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityDemoStopwatch</string>
+    <string name="startBtnText">Start</string>
+    <string name="stopBtnText">Stop</string>
+    <string name="resetBtnText">Reset</string>
+    
+    
+    
+    
+    
+</resources>
